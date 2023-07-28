@@ -14,7 +14,7 @@
 
 #Input You Todo
 
-<a href="https://imgbb.com/"><img width = "200" src="https://i.ibb.co/C0qdBM6/todo-dialog.png" alt="todo-dialog" border="0" /></a>
+<a href="https://ibb.co/Sv2TNdc"><img src="https://i.ibb.co/Sv2TNdc/todo-dialog.png" alt="todo-dialog" border="0"></a>
 
 #Finsh You Todo
 
